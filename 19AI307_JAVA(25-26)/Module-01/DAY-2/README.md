@@ -62,10 +62,11 @@ public class Main{
 ```
 
 ## OUTPUT:
-<img width="652" height="366" alt="image" src="https://github.com/user-attachments/assets/e3ad52a9-af69-45f5-98d7-07fddccacb65" />
+<img width="510" height="370" alt="image" src="https://github.com/user-attachments/assets/23484b5f-f550-460c-b508-5d8f259afab8" />
 
 
 ## RESULT:
 Thus, a java program to get the user input for temperature and display appropriate output is executed successfully.
+
 
 
