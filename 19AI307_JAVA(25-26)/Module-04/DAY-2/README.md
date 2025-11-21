@@ -16,7 +16,10 @@ To implement SOLID principles in Java using the Singleton Design Pattern by ensu
 ## ALGORITHM :
 1. Start the program.
 2. Import the necessary package java.util.
-3. Create a class MasterPowerSwitch with:A private static instance.A private constructor (restricts object creation).A static method getInstance() to return the single instance.
+3. Create a class MasterPowerSwitch with:
+    - A private static instance.
+    - A private constructor (restricts object creation).
+    - A static method getInstance() to return the single instance.
 4. Maintain a counter accessCount to log switch usage.
 5. In the main class, read number of players.
 6. For each player, call getInstance() to get the same object and update count.
@@ -74,3 +77,4 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrated SOLID principles by implementing the Singleton design pattern, ensuring only one instance of the master power switch exists, while maintaining a common access count across all users.
+
