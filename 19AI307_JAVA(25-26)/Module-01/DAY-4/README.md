@@ -4,23 +4,10 @@
 
 Write a Java program to sort an array in ascending order.
 
-**Example Input:**
 
-5
-
-5
-
-3
-
-8
-
-6
-
-2
-
-**Result:**
-
-2 3 5 6 8
+| Input | Result |
+|-------|--------|
+| 5<br>5<br>3<br>8<br>6<br>2 | 2 3 5 6 8 |
 
 ## AIM:
 To write a Java program that reads an array of integers and sorts the elements in ascending order using built-in array methods.
@@ -67,4 +54,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to sort an array in ascending order was executed successfully.
+
 
