@@ -4,7 +4,7 @@
 
 Write a Java program to sort an array in ascending order.
 
-Example Input:
+**Example Input:**
 
 5
 
@@ -18,7 +18,8 @@ Example Input:
 
 2
 
-Result:
+**Result:**
+
 2 3 5 6 8
 
 ## AIM:
@@ -66,3 +67,4 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to sort an array in ascending order was executed successfully.
+
