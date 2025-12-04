@@ -25,8 +25,8 @@ To write a Java program that reads a thread name from the user, sets the current
 ## PROGRAM:
 ```txt
 Program to implement a Thread Priority Concept using Java
-Developed by: Sudharsanam R K
-RegisterNumber:212222040163
+Developed by: Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -54,3 +54,4 @@ public class CurrentThreadDetails {
 
 ## RESULT:
 The program successfully reads a custom name for the current thread, assigns it to the running thread, and displays the thread’s priority and complete thread details.
+
