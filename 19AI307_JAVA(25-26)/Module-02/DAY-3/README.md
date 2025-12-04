@@ -21,8 +21,8 @@ To implement access specifiers in Java using private variables and public getter
 ## PROGRAM:
  ```
 Program to implement a Access Specifiers using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -95,3 +95,4 @@ class prog {
 
 ## RESULT:
 The program successfully implemented access specifiers using private instance variables and public getter and setter methods in Java.
+
