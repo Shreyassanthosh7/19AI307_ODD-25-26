@@ -21,8 +21,8 @@ To write a Java program that demonstrates the use of non-static inner classes, w
 ## PROGRAM:
 ```txt
 Program to implement a InnerClass using Java
-Developed by:Sudharsanam R K
-RegisterNumber:212222040163 
+Developed by:Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -54,4 +54,5 @@ public class OuterClass {
 
 ## RESULT:
 The program successfully demonstrates the concept of inner classes in Java. It creates an inner class object through the outer class instance and prints a personalized greeting message.
+
 
