@@ -30,8 +30,8 @@ To write a Java program that demonstrates polymorphism using interfaces, where d
 ## PROGRAM:
 ```txt
 Program to implement a Interface using Java
-Developed by: Sudharsanam R K
-RegisterNumber:212222040163
+Developed by: Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -81,4 +81,5 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates interface-based polymorphism. Depending on the selected bot type, the appropriate implementation of the Predict() method is invoked, and the weather condition is displayed based on the given temperature.
+
 
