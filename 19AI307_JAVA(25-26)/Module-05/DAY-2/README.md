@@ -22,8 +22,8 @@ To write a Java program that demonstrates object serialization and deserializati
 ## PROGRAM:
 ```txt
 Program to implement a Serialization and Deserialization using Java
-Developed by: Sudharsanam R K 
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -110,3 +110,4 @@ public class StudentSerializationUserInput {
 
 ## RESULT:
 The program successfully serializes a list of Student objects into a file named students.dat and then deserializes the data back into a list. It correctly displays all the retrieved student information, proving that object serialization and deserialization work as expected.
+
