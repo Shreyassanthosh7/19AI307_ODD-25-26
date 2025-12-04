@@ -17,8 +17,8 @@ To implement a behavioral design pattern in Java using Model–View–Controller
 ## PROGRAM:
 ```txt
 Program to implement a Behaviour Pattern using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -111,6 +111,7 @@ public class ProductManagementSystem {
 
 ## RESULT:
 The program successfully implemented a behavioral design pattern using MVC, where the controller updates product price and automatically refreshes the view.
+
 
 
 
