@@ -23,8 +23,8 @@ To write a Java program that checks whether a given number is an Armstrong numbe
 ## PROGRAM:
 ```txt
 Program to implement a Wrapper Class using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -56,4 +56,5 @@ public class ArmstrongCheck {
 
 ## RESULT:
 The program correctly reads a number, computes the sum of its digits raised to the required power, and successfully determines whether the given number is an Armstrong number or not.
+
 
