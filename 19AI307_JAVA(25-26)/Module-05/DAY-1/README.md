@@ -22,8 +22,8 @@ To write a Java program that demonstrates stream chaining by connecting System.i
 ## PROGRAM:
 ```txt
 Program to implement a InputStreamReader using Java
-Developed by: Sudharsanam R K
-RegisterNumber:212222040163
+Developed by: Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -55,3 +55,4 @@ public class ChainingStreamsExample {
 
 ## RESULT:
 The program successfully demonstrates chaining of input streams using BufferedReader and InputStreamReader. It reads the user's name and age from the console and displays them without errors.
+
