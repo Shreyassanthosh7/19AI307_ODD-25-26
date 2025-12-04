@@ -29,8 +29,8 @@ To implement SOLID principles in Java using the Singleton Design Pattern by ensu
 ## PROGRAM:
 ```txt
 Program to implement a SOLID Principles in Java Program
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163 
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -77,4 +77,5 @@ public class prog {
 
 ## RESULT:
 The program successfully demonstrated SOLID principles by implementing the Singleton design pattern, ensuring only one instance of the master power switch exists, while maintaining a common access count across all users.
+
 
