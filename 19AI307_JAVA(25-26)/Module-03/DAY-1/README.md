@@ -22,8 +22,8 @@ To develop a Java program that demonstrates single inheritance by creating a Stu
 ## PROGRAM:
 ```txt
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Sudharsanam R K
-RegisterNumber:212222040163
+Developed by: Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -79,3 +79,4 @@ public class Main {
 
 ## RESULT:
 The program successfully reads the student’s details, creates a Student object using inheritance, and displays the student’s information along with the appropriate grade based on the marks entered.
+
