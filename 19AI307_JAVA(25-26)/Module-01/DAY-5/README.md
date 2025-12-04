@@ -28,8 +28,8 @@ To write a Java program that reads a sentence and finds the longest word using s
 ## PROGRAM:
 ```txt
 Program to implement Strings and Math Function using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -60,4 +60,5 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to find the longest word in a sentence was executed successfully.
+
 
