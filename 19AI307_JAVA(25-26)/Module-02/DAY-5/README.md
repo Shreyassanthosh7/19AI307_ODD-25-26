@@ -27,8 +27,8 @@ To implement access modifiers in Java using both static and non-static methods w
 ## PROGRAM:
 ```txt
 Program to implement a Access Modifiers using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -64,6 +64,7 @@ class prog {
 
 ## RESULT:
 The program successfully implemented access modifiers using static and non-static methods in Java.
+
 
 
 
