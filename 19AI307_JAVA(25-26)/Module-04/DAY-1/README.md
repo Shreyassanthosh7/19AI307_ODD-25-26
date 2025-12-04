@@ -21,8 +21,8 @@ To write a Java program that performs division of two numbers and handles divisi
 ## PROGRAM:
 ```txt
 Program to implement a Exception Handling using Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -54,5 +54,6 @@ public class DivideNumbers {
 
 ## RESULT:
 The program was executed successfully and exception handling was implemented to prevent division-by-zero errors.
+
 
 
