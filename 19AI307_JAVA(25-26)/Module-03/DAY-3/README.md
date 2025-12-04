@@ -31,8 +31,8 @@ To write a Java program that demonstrates runtime polymorphism using an abstract
 ## PROGRAM:
 ```txt
 Program to implement a Abstraction using Java
-Developed by: Sudharsanam R K
-RegisterNumber:212222040163
+Developed by: Shreyas S
+RegisterNumber:212222040155
 ```
 
 ## SOURCE CODE:
@@ -87,4 +87,5 @@ public class Main {
 
 ## RESULT:
 The program successfully demonstrates runtime polymorphism using an abstract class. Depending on the account type entered by the user, the appropriate calculateInterest() method from the corresponding subclass is executed, and the interest amount is correctly displayed.
+
 
