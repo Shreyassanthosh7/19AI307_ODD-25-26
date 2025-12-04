@@ -27,8 +27,8 @@ To implement the concept of Composition in Java by creating a Library class that
 ## PROGRAM:
 ```txt
 Program to implement a Composition Concepts in Java
-Developed by: Sudharsanam R K
-RegisterNumber: 212222040163
+Developed by: Shreyas S
+RegisterNumber: 212222040155
 ```
 
 ## SOURCE CODE:
@@ -90,6 +90,7 @@ class Library {
 
 ## RESULT:
 The program successfully demonstrated composition in Java, where the Library class creates and owns Book objects, ensuring they do not exist independently.
+
 
 
 
